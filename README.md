@@ -102,6 +102,10 @@ while (1)
 
 
 ## OUTPUT  :
+
+
+![IOT expt1](https://github.com/user-attachments/assets/adc2284a-9299-44b2-8daa-374553095531)
+
  
  
  
